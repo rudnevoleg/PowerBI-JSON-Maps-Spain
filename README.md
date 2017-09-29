@@ -1,1 +1,1 @@
-.JSON maps of Spain for Drilldown choropleth visualization (PoweBI). Autonomous Communities (Regions) and provinces. Canary Islands have been displaced for better representation.
+.JSON maps of Spain for Drilldown choropleth visualization (PoweBI). Autonomous Communities (Regions) and provinces. Canary Islands have been displaced for better representation. DDBB ID's and Names are from INE (Instituto Nacional de Estadictica).
